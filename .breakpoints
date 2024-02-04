@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.c": [
+      {
+        "id": "bafaa205-d08f-4094-9c49-aa3ba41cd484",
+        "line": 17,
+        "version": 1308,
+        "index": 349
+      },
+      {
+        "id": "a5672e8f-d5c6-41e5-91db-d8e8f7b1b5d2",
+        "line": 20,
+        "version": 1308,
+        "index": 448
+      },
+      {
+        "id": "b87fdc24-a97d-44b6-b22a-2260eb9909a4",
+        "line": 23,
+        "version": 1308,
+        "index": 484
+      },
+      {
+        "id": "21bf3fda-8ef5-4f83-819b-667347e319e6",
+        "line": 24,
+        "version": 1308,
+        "index": 512
+      }
+    ]
+  }
+}
